@@ -1,0 +1,121 @@
+
+PRIMERA PRUEBA
+
+------------ RONDA 1 ------------
+
+INICIALMENTE
+11111111	11111111	11111111	11111111	11111111
+
+FINALMENTE
+11111111	11111111	11111111	11111111	11111111
+
+------------ RONDA 2 ------------
+
+INICIALMENTE
+10101010	10101010	10101010	10101010	10101010
+
+FINALMENTE
+10101010	10101010	10101010	10101010	10101010
+
+------------ RONDA 3 ------------
+
+INICIALMENTE
+10010010	01001001	00100100	10010010	01001001
+
+FINALMENTE
+10010010	01001001	00100100	10010010	01001001
+
+------------ RONDA 4 ------------
+
+INICIALMENTE
+10001000	10001000	10001000	10001000	10001000
+
+FINALMENTE
+10001000	10001000	10001000	10001000	10001000
+
+------------ RONDA 5 ------------
+
+INICIALMENTE
+10000100	00100001	00001000	01000010	00010000
+
+FINALMENTE
+10000100	00100001	00001000	01000010	00010000
+
+------------ RONDA 6 ------------
+
+INICIALMENTE
+10000010	00001000	00100000	10000010	00001000
+
+FINALMENTE
+10000010	00001000	00100000	10000010	00001000
+
+------------ RONDA 7 ------------
+
+INICIALMENTE
+10000001	00000010	00000100	00001000	00010000
+
+FINALMENTE
+10000001	00000010	00000100	00001000	00010000
+
+------------ RONDA 8 ------------
+
+INICIALMENTE
+10000000	10000000	10000000	10000000	10000000
+
+FINALMENTE
+10000000	10000000	10000000	10000000	10000000
+
+------------ RONDA 9 ------------
+
+INICIALMENTE
+10000000	01000000	00100000	00010000	00001000
+
+FINALMENTE
+10000000	01000000	00100000	00010000	00001000
+
+SEGUNDA PRUEBA
+
+guid 0, block 0, pos 0 -> 1
+guid 1, block 0, pos 1 -> 0
+guid 2, block 0, pos 2 -> 0
+guid 3, block 0, pos 3 -> 0
+guid 4, block 0, pos 4 -> 0
+guid 5, block 0, pos 5 -> 0
+guid 6, block 0, pos 6 -> 0
+guid 7, block 0, pos 7 -> 0
+
+guid 8, block 1, pos 0 -> 0
+guid 9, block 1, pos 1 -> 1
+guid 10, block 1, pos 2 -> 0
+guid 11, block 1, pos 3 -> 0
+guid 12, block 1, pos 4 -> 0
+guid 13, block 1, pos 5 -> 0
+guid 14, block 1, pos 6 -> 0
+guid 15, block 1, pos 7 -> 0
+
+guid 16, block 2, pos 0 -> 0
+guid 17, block 2, pos 1 -> 0
+guid 18, block 2, pos 2 -> 1
+guid 19, block 2, pos 3 -> 0
+guid 20, block 2, pos 4 -> 0
+guid 21, block 2, pos 5 -> 0
+guid 22, block 2, pos 6 -> 0
+guid 23, block 2, pos 7 -> 0
+
+guid 24, block 3, pos 0 -> 0
+guid 25, block 3, pos 1 -> 0
+guid 26, block 3, pos 2 -> 0
+guid 27, block 3, pos 3 -> 1
+guid 28, block 3, pos 4 -> 0
+guid 29, block 3, pos 5 -> 0
+guid 30, block 3, pos 6 -> 0
+guid 31, block 3, pos 7 -> 0
+
+guid 32, block 4, pos 0 -> 0
+guid 33, block 4, pos 1 -> 0
+guid 34, block 4, pos 2 -> 0
+guid 35, block 4, pos 3 -> 0
+guid 36, block 4, pos 4 -> 1
+guid 37, block 4, pos 5 -> 0
+guid 38, block 4, pos 6 -> 0
+guid 39, block 4, pos 7 -> 0
